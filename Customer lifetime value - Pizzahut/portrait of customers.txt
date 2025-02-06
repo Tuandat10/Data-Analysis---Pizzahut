@@ -1,0 +1,2 @@
+unqualified customers: no voucher, low sales, take away. customer gender unknow, orderfrom store
+qualified customers: no voucher, high sales, delivery.

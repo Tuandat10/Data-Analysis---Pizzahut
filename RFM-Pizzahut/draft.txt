@@ -1,0 +1,23 @@
+Khách hàng vãng lai - chỉ đến sử dụng thử sản phẩm và k sử dụng nữa, chi tiêu ít --> Low-value customers
+-- nhóm khách hàng: 111, 112, 211, 212, 113, 213, 114,
+Khách hàng đã sử dụng tương đối nhiều lần trong quá khứ nhưng nay không sử dụng nữa, chi tiêu thấp --> "Student" customers' departure from the store
+-- nhóm khách hàng: 222, 122, 221, 121, 242, 131, 241, 142, 141,132, 231,232
+Khách hàng mới sử dụng sản phẩm, sử dụng ít chi tiêu thấp --> Customers experiencing product trials
+-- nhóm khách hàng 311, 312, 411, 412, 422, 322, 421, 321, 
+Khách hàng mới sử dụng sản phẩm, sử dụng ít nhưng chi tiêu lớn --> Potential customers
+-- Nhóm khách hàng 313, 413, 324, 424, 323, 423, 314, 414
+Khách hàng mới sử dụng sản phẩm, sử dụng nhiều và chi tiêu lớn --> Profitable customers
+-- Nhóm khách hàng 444, 344, 434, 334, 443, 343,433,333
+Khách hàng mới sử dụng sản phẩm, sử dụng nhiều và chi tiêu thấp --> Customers being "students"
+-- Nhóm khách hàng 342, 442, 431, 441, 341,331,332,432
+Khách hàng sử dụng sản phẩm trong quá khứ nhiều lần, sử dụng thường xuyên, chi tiêu lớn nhưng giờ k sử dụng nữa --> Customers needing reconnection
+-- Nhóm khách hàng  234, 244, 134, 233, 144, 133, 143,243,
+Khách hàng sử dụng sản phẩm trong quá khứ, sử dụng ít lần, chi tiêu lớn --> Customers' preference for novel experiences
+-- Nhóm khách hàng 224, 223, 123, 124, 214
+
+recency 101 217 336
+frequency 2 3 4
+monetary 201289 311816 567481.25
+
+Channel, Orderfrom, CustomerGender, VoucherStatus, Province
+

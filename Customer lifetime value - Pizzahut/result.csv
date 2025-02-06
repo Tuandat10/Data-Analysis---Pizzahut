@@ -1,0 +1,20 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+969,"frozenset({'VoucherStatus_No', 'sales_segmentation_low'})",frozenset({'customer_segmentation_unqualified customers'}),0.25,0.43,0.22,0.89,2.08,0.11,5.26,0.69
+143,frozenset({'sales_segmentation_low'}),frozenset({'customer_segmentation_unqualified customers'}),0.25,0.43,0.22,0.89,2.08,0.12,5.19,0.69
+960,"frozenset({'VoucherStatus_No', 'sales_segmentation_high'})",frozenset({'customer_segmentation_qualified customers'}),0.21,0.57,0.20,0.97,1.70,0.08,16.55,0.52
+138,frozenset({'sales_segmentation_high'}),frozenset({'customer_segmentation_qualified customers'}),0.25,0.57,0.24,0.97,1.70,0.10,15.92,0.55
+140,frozenset({'sales_segmentation_high-normal'}),frozenset({'customer_segmentation_qualified customers'}),0.25,0.57,0.22,0.86,1.51,0.07,3.12,0.45
+1761,"frozenset({'VoucherStatus_No', 'Channel_Take Away', 'CustomerGender_Unknown'})",frozenset({'customer_segmentation_unqualified customers'}),0.34,0.43,0.21,0.62,1.44,0.07,1.50,0.47
+425,"frozenset({'Channel_Take Away', 'CustomerGender_Unknown'})",frozenset({'customer_segmentation_unqualified customers'}),0.35,0.43,0.21,0.61,1.43,0.06,1.47,0.46
+1549,"frozenset({'VoucherStatus_No', 'Channel_Take Away', 'OrderFrom_STORE'})",frozenset({'customer_segmentation_unqualified customers'}),0.36,0.43,0.22,0.60,1.41,0.06,1.44,0.45
+373,"frozenset({'Channel_Take Away', 'OrderFrom_STORE'})",frozenset({'customer_segmentation_unqualified customers'}),0.36,0.43,0.22,0.60,1.40,0.06,1.42,0.45
+2076,"frozenset({'VoucherStatus_No', 'CustomerGender_Unknown', 'OrderFrom_STORE'})",frozenset({'customer_segmentation_unqualified customers'}),0.38,0.43,0.23,0.59,1.38,0.06,1.40,0.45
+600,"frozenset({'CustomerGender_Unknown', 'OrderFrom_STORE'})",frozenset({'customer_segmentation_unqualified customers'}),0.39,0.43,0.23,0.59,1.37,0.06,1.39,0.44
+462,"frozenset({'VoucherStatus_No', 'Channel_Take Away'})",frozenset({'customer_segmentation_unqualified customers'}),0.46,0.43,0.26,0.57,1.32,0.06,1.32,0.46
+32,frozenset({'Channel_Take Away'}),frozenset({'customer_segmentation_unqualified customers'}),0.50,0.43,0.27,0.54,1.26,0.06,1.25,0.42
+647,"frozenset({'VoucherStatus_No', 'OrderFrom_STORE'})",frozenset({'customer_segmentation_unqualified customers'}),0.50,0.43,0.27,0.54,1.26,0.06,1.24,0.41
+61,frozenset({'OrderFrom_STORE'}),frozenset({'customer_segmentation_unqualified customers'}),0.50,0.43,0.27,0.53,1.25,0.05,1.23,0.40
+823,"frozenset({'VoucherStatus_No', 'CustomerGender_Unknown'})",frozenset({'customer_segmentation_unqualified customers'}),0.59,0.43,0.31,0.52,1.22,0.06,1.20,0.45
+99,frozenset({'CustomerGender_Unknown'}),frozenset({'customer_segmentation_unqualified customers'}),0.60,0.43,0.31,0.52,1.20,0.05,1.18,0.43
+16,frozenset({'Channel_Delivery'}),frozenset({'customer_segmentation_qualified customers'}),0.48,0.57,0.32,0.68,1.19,0.05,1.34,0.31
+268,"frozenset({'VoucherStatus_No', 'Channel_Delivery'})",frozenset({'customer_segmentation_qualified customers'}),0.42,0.57,0.28,0.66,1.15,0.04,1.25,0.23
